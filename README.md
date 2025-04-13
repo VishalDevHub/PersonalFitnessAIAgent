@@ -30,7 +30,7 @@
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/personal-fitness-ai.git
+git clone https://github.com/Meruem1/personal-fitness-ai.git
 cd personal-fitness-ai
 ```
 
@@ -94,16 +94,3 @@ And get instant AI-generated suggestions!
 | Output field errors              | Ensure your Langflow flow has properly configured output components |
 | Flow not responding              | Make sure the flow is published and not in draft mode               |
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙌 Acknowledgments
-
-- 🎨 [Langflow](https://langflow.org) by Logspace
-- ☁️ [Datastax Astra](https://www.datastax.com/astra)
-- 🌟 [Streamlit](https://streamlit.io)
