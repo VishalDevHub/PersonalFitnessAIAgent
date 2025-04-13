@@ -95,7 +95,7 @@ And get instant AI-generated suggestions!
 | Flow not responding              | Make sure the flow is published and not in draft mode               |
 
 ## ✨ Output
-![FitnessAI1](https://github.com/user-attachments/assets/e01d7b90-06d6-4016-8638-2b0cce6a592a)
+![FitnessAI1](https://github.com/user-attachments/assets/31182282-3c18-4d35-a933-122eb3442fad)
 ![FitnessAI2](https://github.com/user-attachments/assets/8ca19988-1e6b-4969-a8c5-2b25d43aeb09)
 ![FitnessAI3](https://github.com/user-attachments/assets/e1529b1a-5aa1-4c9c-a098-a631e38bdab2)
 ![FitnessAI4](https://github.com/user-attachments/assets/b2ec4556-1f50-4a7a-8210-49c7ad8380d5)
