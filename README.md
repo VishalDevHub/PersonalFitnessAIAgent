@@ -23,7 +23,7 @@ Tech	Purpose
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/personal-fitness-ai.git
+git clone https://github.com/Meruem1/personal-fitness-ai.git
 cd personal-fitness-ai
 2️⃣ Install dependencies
 bash
