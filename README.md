@@ -94,3 +94,6 @@ And get instant AI-generated suggestions!
 | Output field errors              | Ensure your Langflow flow has properly configured output components |
 | Flow not responding              | Make sure the flow is published and not in draft mode               |
 
+
+![FitnessAI1](https://github.com/user-attachments/assets/e01d7b90-06d6-4016-8638-2b0cce6a592a)
+
